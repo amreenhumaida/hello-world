@@ -1,0 +1,25 @@
+li{
+    background:#8785c4;
+}
+h1{
+    background-color:#ff005d;
+}
+
+p{
+    background-color:pink
+}
+.myclass:hover {
+    background-color: orange
+}
+.otherstuff{
+    background-color: yellow
+}
+nav{
+    text-transform: uppercase
+}
+nav:hover {
+    font-family: monospace
+}
+.highlight:hover{
+    background-color: yellow
+}
