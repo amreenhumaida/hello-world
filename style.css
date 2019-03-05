@@ -6,20 +6,49 @@ h1{
 }
 
 p{
-    background-color:pink
+    background-color:pink;
 }
 .myclass:hover {
-    background-color: orange
+    background-color: orange;
 }
 .otherstuff{
-    background-color: yellow
+    background-color: yellow;
 }
 nav{
-    text-transform: uppercase
+    text-transform: uppercase;
 }
 nav:hover {
-    font-family: monospace
+    font-family: monospace;
 }
 .highlight:hover{
-    background-color: yellow
+    background-color: yellow;
 }
+header{
+    
+    height:300px;
+    width:100%;
+}    
+/*Services*/
+text-align:center;
+
+}
+
+.services i{
+    font-size: 60px;
+    padding:45px 50px;
+    
+    background-color:f88379;
+    color:#fff;
+    text-align:center;
+    width:80px;
+    height:80px;
+    
+    border-radius: 50%;
+
+}
+
+.services span{
+    font-weight: bold
+}
+    
+ 
